@@ -1,5 +1,5 @@
 #!/bin/bash
 
 echo "today date is" $date
-echo "add third line"
+echo "add third line from github"
 echo "adde fourth line"
